@@ -7,7 +7,7 @@ namespace GitHubSecurityMonitor.Detectors
     public abstract class Detector
     {
         // safe public wrappers; what DetectionEngine calls
-        public bool SafeCanHandle(string eventType)
+        public sealed bool SafeCanHandle(string eventType)
         {
             try
             {
@@ -20,7 +20,7 @@ namespace GitHubSecurityMonitor.Detectors
             }
         }
 
-        public Alert? SafeDetect(GitHubEvent gitHubEvent)
+        public sealed Alert? SafeDetect(GitHubEvent gitHubEvent)
         {
             try
             {
