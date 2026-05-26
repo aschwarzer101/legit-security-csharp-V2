@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "SnMCwXSuc0eZ2/qsqb8dc/4GAz7CezEMt6i4gslzTNc=",
+  "Source": "GitHubSecurityMonitor",
+  "BasePath": "_content/GitHubSecurityMonitor",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VnjFLVvmehY=",
+  "success": true,
+  "projectFilePath": "/Users/alaynam.schwarzer/legit-security-V2/GitHubSecurityMonitor/GitHubSecurityMonitor.csproj",
+  "expectedPackageFiles": [
+    "/Users/alaynam.schwarzer/.nuget/packages/microsoft.aspnetcore.openapi/9.0.1/microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "/Users/alaynam.schwarzer/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
